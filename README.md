@@ -1,4 +1,3 @@
-
   Redis Migration Script
 
 Redis Migration Script
@@ -11,15 +10,14 @@ Setup
 
 1. Clone repo and navigate to the directory:
 
-   git clone <repo_url>
-   cd redis_migration
+   `git clone <repo_url>`
 2. Create & activate a virtual environment:
 
    python3 -m venv venv
    source venv/bin/activate
 3. Install dependencies using the requirements file:
 
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 Requirements File
 -----------------
