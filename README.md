@@ -31,7 +31,7 @@ Configuration
 
 1. Copy sample env:
 
-   cp .env.sample .env
+   `cp .env.sample .env`
 2. Edit `.env` with your Redis credentials.
 
 Usage
