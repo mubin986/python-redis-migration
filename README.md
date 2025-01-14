@@ -1,7 +1,4 @@
-  Redis Migration Script
-
-Redis Migration Script
-======================
+# Redis Migration Script
 
 A Python script to migrate data between Redis instances with environment-based configuration and progress updates.
 
@@ -13,8 +10,8 @@ Setup
    `git clone <repo_url>`
 2. Create & activate a virtual environment:
 
-   python3 -m venv venv
-   source venv/bin/activate
+   `python3 -m venv venv`
+   `source venv/bin/activate`
 3. Install dependencies using the requirements file:
 
    `pip install -r requirements.txt`
